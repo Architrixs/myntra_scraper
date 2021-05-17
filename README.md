@@ -16,3 +16,5 @@ Optimised for fast fetching
 ![](https://github.com/Architrixs/myntra_scraper.py/blob/main/myntra_scraper.png)
 ### Output file Example
 ![](https://github.com/Architrixs/myntra_scraper.py/blob/main/example_json.png)
+
+### Please, Open an Issue for any Errors.
